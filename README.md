@@ -57,6 +57,8 @@ to complete:
 2. Phase 2. **Change Authorship**
 3. Phase 3. **Read & Understand**
 4. Phase 4. **Modify**
+   1. I elected to add additional metrics of MSE (Mean Squared Error) and RMSE (Root Mean Squared Error) to go along with MAE and R^2. These additional metrics give us the ability to more completely evaluate the performance of the regression model.
+   2. No challenges were encountered after updating the import and the train_model function. I was able to successfully execute the copied file app_martin4.py without any issues.
 5. Phase 5. **Apply** <mark>(optional for Module 1)</mark>
 
 **Completing Phases 1-4 is the goal for Module 1.**
